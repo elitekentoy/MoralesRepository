@@ -1,0 +1,34 @@
+.removeFromList{
+    float: right;
+}
+
+.uldiv{
+     width: 500px;
+    margin: 0 auto;
+
+}
+
+.listValues{
+    height:39px;
+    list-style-type: none;
+    text-align: justify;
+    background: white;
+    padding-left: 10px;
+}
+
+#addToListValue{
+    width: 450px;
+}
+
+.through{
+    text-decoration: line-through;
+    font-style: italic;
+    color:darkgray;
+    text-decoration-color: tomato;
+
+}
+
+#notice{
+    text-align: center;
+    color: tomato;
+}
